@@ -30,16 +30,3 @@ This extension aligns multiple lines of text by regular expressions. It can alig
 - Select templates or input Regular Expression.
 
 ![Example 1](images/example_1.gif)
-
-
-## Release Notes
-
-### 1.0.2
-- Revise the default regular expression templates.
-
-### 1.0.1
-- Change icon
-
-### 1.0.0
-- Support aligning multiple selections and cursors simultaneously.
-- Run alignment from the editor context menu.
