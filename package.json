@@ -14,7 +14,7 @@
     "publisher": "thangckt",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thangckt/vsc-align_regex.git"
+        "url": "https://github.com/thangckt/vsc_align_regex.git"
     },
     "engines": {
         "vscode": "^1.25.0"
